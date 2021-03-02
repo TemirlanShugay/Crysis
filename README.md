@@ -30,3 +30,12 @@ DB3project
 -	Programming language:  PhP
 -	Frontend: html, css, javascript
 -	Database: Mysql
+
+# Functions:
+-	Login/sign up to become an admin
+-	Users can view all the foods items and categories separately
+-	Search-bar for the finding desired food
+-	Easily ordering feature
+-	Admin has the ability to manage admin, categories and food items
+-	Also, he can  manage(updating/deleting) and track food order and delivery
+-	The website is responsive to all mainstream screen sizes.
