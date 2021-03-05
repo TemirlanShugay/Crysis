@@ -1,9 +1,9 @@
 # Crysis
 DB3project
 
-# Goal description:
+## Goal description:
 
-> The idea of the application is to let people order various type of foods.
+###### The idea of the application is to let people order various type of foods.
 
 # Application description:
 
