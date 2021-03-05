@@ -5,33 +5,34 @@ DB3project
 
 ###### The idea of the application is to let people order various type of foods.
 
-# Application description:
+## Application description:
 
-## Building application that uses big amount of data consisting list of foods. Users are required to create an account on the website. With those accounts, they can order food to the desired address. It is easy to explore food taste by our simple-usable website.
+###### Building application that uses big amount of data consisting list of foods. Users are required to create an account on the website. With those accounts, they can order food to the desired address. It is easy to explore food taste by our simple-usable website.
 
-# Benefits:
-> Despite the increasing number of high-quality sites for ordering food, sometimes there are tasteless and inconvenient sites to use. So, here list of benefits:
+## Benefits:
+
+###### Despite the increasing number of high-quality sites for ordering food, sometimes there are tasteless and inconvenient sites to use. So, here list of benefits:
 -	Convenience
 -	More variety
 -	Simple understanding website, without useless information and function
 -	No advertisement
 -	Feature for cancelling order
 
-# Scope:
+## Scope:
 
-> We are going to spend whole semester to finish this project. It’s about 2 month.
+###### We are going to spend whole semester to finish this project. It’s about 2 month.
 
-# Platform: 
+## Platform: 
 
-> Web
+###### Web
 
-# Stack
+## Stack
 
 -	Programming language:  PhP
 -	Frontend: html, css, javascript
 -	Database: Mysql
 
-# Functions:
+## Functions:
 -	Login/sign up to become an admin
 -	Users can view all the foods items and categories separately
 -	Search-bar for the finding desired food
@@ -40,7 +41,7 @@ DB3project
 -	Also, he can  manage(updating/deleting) and track food order and delivery
 -	The website is responsive to all mainstream screen sizes.
 
-# 15 Questions that the project answers:
+## 15 Questions that the project answers:
 
 1. How to display Foods that are Active and available to order?
 2. Can we retrieve all information about food categories?
