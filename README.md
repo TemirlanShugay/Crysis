@@ -7,7 +7,7 @@ DB3project
 
 # Application description:
 
-> Building application that uses big amount of data consisting list of foods. Users are required to create an account on the website. With those accounts, they can order food to the desired address. It is easy to explore food taste by our simple-usable website.
+## Building application that uses big amount of data consisting list of foods. Users are required to create an account on the website. With those accounts, they can order food to the desired address. It is easy to explore food taste by our simple-usable website.
 
 # Benefits:
 > Despite the increasing number of high-quality sites for ordering food, sometimes there are tasteless and inconvenient sites to use. So, here list of benefits:
