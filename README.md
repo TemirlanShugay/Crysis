@@ -62,3 +62,7 @@ DB3project
 ## UML Case
 
 ![GitHub Logo](Crysis-UseCase-UML.png)
+
+## ER-Diagram
+
+![GitHub Logo](Crysis-ER.png)
