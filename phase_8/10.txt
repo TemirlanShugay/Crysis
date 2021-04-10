@@ -1,0 +1,9 @@
+1) SELECT count(*) FROM tbl_food WHERE active='Yes' AND featured='Yes';
+
+2) SELECT count(*) FROM tbl_food WHERE active='Yes' AND featured='Yes';
+
+3) |T` = 4|
+
+4) 6/(1+4)=1.2
+
+5) 0.800013542175293 ms

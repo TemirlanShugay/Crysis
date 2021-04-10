@@ -1,0 +1,9 @@
+1) SELECT count(*) FROM tbl_food WHERE id=$food_id;
+
+2) SELECT count(*) FROM tbl_food WHERE id=$food_id;
+
+3) |T` = 1|
+
+4) 6/1 = 6
+
+5) 0.5000114440917969 ms 

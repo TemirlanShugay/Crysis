@@ -1,0 +1,9 @@
+1) SELECT count(*) FROM tbl_admin WHERE username='$username' AND password='$password';
+
+2) SELECT count(*) FROM tbl_admin WHERE username='$username' AND password='$password';
+
+3) |T` = 1|
+
+4) 4/1 = 4
+
+5) 0.39980411529541016 ms
