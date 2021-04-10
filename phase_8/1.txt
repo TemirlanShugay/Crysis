@@ -1,0 +1,14 @@
+1)
+SELECT Count(*) FROM tbl_food WHERE active='Yes';
+
+2)
+SELECT Count(*) FROM tbl_food WHERE active='Yes';
+
+3)
+|T` = 5|
+
+4)
+6/1=6
+
+5)
+0.3999948501586914 ms
