@@ -1,0 +1,8 @@
+SELECT count(*) FROM tbl_category WHERE active='Yes' AND featured='Yes';
+
+1)0.4 ms
+2)0.4 ms
+3)0.5 ms
+4)0.5 ms
+5)0.6 ms
+Average: 0.48 ms

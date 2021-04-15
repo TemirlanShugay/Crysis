@@ -1,0 +1,8 @@
+SELECT count(*) FROM tbl_order WHERE status='Delivered';
+
+1)0.3 ms
+2)0.3 ms
+3)0.3 ms
+4)0.4 ms
+5)0.5 ms
+Average: 0.36 ms

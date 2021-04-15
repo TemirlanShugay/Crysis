@@ -1,0 +1,8 @@
+SELECT count(*) FROM tbl_food WHERE title LIKE '%$search%' OR description LIKE '%$search%';
+
+1)0.4 ms
+2)0.4 ms
+3)0.4 ms
+4)0.5 ms
+5)0.5 ms
+Average: 0.44 ms

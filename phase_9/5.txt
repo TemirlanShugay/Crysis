@@ -1,0 +1,8 @@
+SELECT count(*) FROM tbl_food WHERE id=$food_id;
+
+1)0.4 ms
+2)0.5 ms
+3)1.1 ms
+4)1.2 ms
+5)1.6 ms
+Average: 0.96 ms

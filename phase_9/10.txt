@@ -1,0 +1,8 @@
+SELECT count(*) FROM tbl_food WHERE active='Yes' AND featured='Yes';
+
+1)0.19 ms
+2)0.19 ms
+3)0.29 ms
+4)0.29 ms
+5)0.29 ms
+Average: 0.25 ms

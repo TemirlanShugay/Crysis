@@ -1,0 +1,8 @@
+SELECT Count(*) FROM tbl_food WHERE active='Yes';
+
+1)0.3 ms
+2)0.3 ms
+3)0.4 ms
+4)0.4 ms
+5)0.4 ms
+Average: 0.36 ms
